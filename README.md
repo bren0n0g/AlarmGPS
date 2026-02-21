@@ -2,7 +2,7 @@
 
 O **Smart WakeUp** é um aplicativo de despertador proativo e consciente do trânsito. Em vez de definir um horário fixo para acordar, você define **a hora que precisa chegar ao seu destino**. O aplicativo monitora o trânsito em tempo real enquanto você dorme e ajusta automaticamente o horário do seu alarme, garantindo que você nunca se atrase devido a engarrafamentos imprevistos.
 
-[![Download APK](https://img.shields.io/badge/Download_APK-v1.0.0-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bren0n0g/AlarmGPS/releases/download/v1.0.0/r2c44s.apk)
+[![Download](https://img.shields.io/badge/Download_APK-v1.0.0-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bren0n0g/AlarmGPS/releases/download/v1.0.0/r2c44s.apk)
 
 ## **✨ Principais Funcionalidades**
 
